@@ -1,4 +1,6 @@
 # EX-16-LEFT-SHIFT-OPERATION
+## NAME: praisy nishitha j
+## REFERENCE NO: 212224100042
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
 
